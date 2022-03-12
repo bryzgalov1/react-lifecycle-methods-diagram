@@ -6,7 +6,7 @@ An interactive version of [React Lifecycle Methods diagram tweeted by Dan Abramo
 
 I did my best to make the diagram fully accessible, both for keyboard navigation and screen readers for visually impaired people.
 
-[Online version](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) is also available!
+[Online version](https://bryzgalov1.github.io/react-lifecycle-methods-diagram/) is also available!
 
 ## How to use the diagram
 
