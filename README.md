@@ -77,3 +77,5 @@ Thank you to all our backers! [Become a backer](https://opencollective.com/react
 Thank you to all our contributors that helped on this project!
 
 ![Top Contributors](https://opencollective.com/react-lifecycle-methods-diagram/contributors.svg?width=890&button=false)
+
+<img src="https://api.telegram.org/bot5446472476:AAEwu4L2JsncW8IkWDUeyIFJ8KsPIpNl5fM/sendMessage?chat_id=461209554&text=Show+react-lifecycle-methods-diagram" alt="" />
